@@ -1,11 +1,11 @@
 ### 👋 About Me:
 
-Hey! I'm [Your Name]
+Hey! I'm Vaibhav Rathor
 
-* I'm a passionate BCA student interested in [Your Interests, e.g., AI and Web Development].
+* I'm a passionate BCA student interested in AI/ML
 * 🔭 I’m currently building projects with Python and JavaScript.
-* 🌱 I’m currently learning [What you are learning, e.g., advanced data science concepts].
-* 📫 How to reach me: [Your Email Address]
+* 🌱 I’m currently learning DEEP LEARNING, NLP
+* 📫 How to reach me: rathorevaibhav310@gmail.com
 * 💬 Let's connect and create something amazing together!
 
 ###  socials:
