@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="30px" height="30px"> </h1>
+<h1> Hey there! >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="30px" height="30px"> </h1>
 <p align='center'>
 
 <div size='20px'> Hi! My name is Vaibhav Rathore.
@@ -43,11 +43,11 @@ Thank you for taking the time to view my GitHub profile!  :smile:
 ### 🤝 Connect with me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vaibhav-rathor/" target="_blank">
+  <a href="https://www.linkedin.com/in/vaibhav-rathor-38898b367/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
   <a href="https://github.com/VabbyVerse" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+     <img width = '32px' align= 'center'  height='30px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
   </a>
   <a href="mailto:rathorevaibhav310@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
